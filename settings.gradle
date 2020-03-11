@@ -1,0 +1,4 @@
+include ':app', ':manualdidemo'
+rootProject.name='DIDemo'
+include ':testuiautomator'
+include ':antifraud'
